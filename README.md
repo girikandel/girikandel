@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="center">
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/girikandel36) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil_sharma33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girikandel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anilkandel36) 
@@ -13,7 +14,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=girikandel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+</p>
 
 <!--
 **girikandel/girikandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
